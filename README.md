@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/nathuchoa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathuchoa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathuchoa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathuchoa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathuchoa&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 ### Lenguages&Frameworks 💻
@@ -21,9 +21,7 @@
   <!-- <img align="center" alt="Nath-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> -->
   <img align="center" alt="Nath-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Nath-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Nath-NodeJs height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-          
-          
+  <img align="center" alt="Nath-NodeJs height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
 ##
