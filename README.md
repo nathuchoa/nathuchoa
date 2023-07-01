@@ -3,11 +3,6 @@
 
 📚 I'm currently working on personal projects and doing bootcamps | 🌎 From Brazil - Living in Portugal 
 
-<div align="center">
-  <a href="https://github.com/nathuchoa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathuchoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathuchoa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ### Lenguages&Frameworks 💻
 <div style="display: inline_block"><br>
